@@ -5876,7 +5876,7 @@ void load_class_list(void)
                      "prodigious rogues blend the subtlest aspects of the arcane with the natural cunning "
                      "of the bandit and the scoundrel, using spells to enhance their natural rogue abilities. "
                      "Arcane shadows as often as not seek humiliation as a goal to triumph over "
-                     "their foes than more violent solutions.");
+                     "their foes; moreover violent solutions.");
   /* class-number then saves:        fortitude, reflex, will, poison, death */
   assign_class_saves(CLASS_ARCANE_SHADOW, B, G, G, B, B);
   assign_class_abils(CLASS_ARCANE_SHADOW, /* class number */
@@ -6531,7 +6531,7 @@ void load_class_list(void)
                      "their motivations, mystic theurges believe that perception is reality, and "
                      "through the divine forces and astral energies of the multiverse, that "
                      "perception can be used to manipulate and control not only the nature of "
-                     "this reality, but destiny itself");
+                     "this reality, but destiny itself.");
   /* class-number then saves:        fortitude, reflex, will, poison, death */
   assign_class_saves(CLASS_MYSTIC_THEURGE, B, B, G, B, B);
   assign_class_abils(CLASS_MYSTIC_THEURGE, /* class number */

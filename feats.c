@@ -701,7 +701,7 @@ void assign_feats(void)
         "be used as dangerous weapons.  Trelux Monks gain an extra dice of damage "
         "due to these pincers.  Also, Trelux pincers have a chance of poisoning "
         "their victim - note Trelux naturally are 'dual wielding' and will have"
-        "a partial but reduced penalty to hit with their 'off' pincer.  The vicousness of "
+        "a partial but reduced penalty to hit with their 'off' pincer.  The viciousness of"
         "their pincers also gives a +1 bonus to their damroll bonus every 4 levels.");
   feato(FEAT_TRELUX_RACIAL_ADJUSTMENT, "trelux racial adjustment", TRUE, FALSE, FALSE, FEAT_TYPE_INNATE_ABILITY,
         "+4 dex, +2 str, +4 con",
